@@ -181,7 +181,7 @@ dependencies {
   // Cloud Messaging / FCM
   compileOnly "com.google.firebase:firebase-messaging:17.3.4"
   // Crashlytics
-  compileOnly('com.crashlytics.sdk.android:crashlytics:2.9.5@aar') {
+  compileOnly('com.crashlytics.sdk.android:crashlytics:2.9.8@aar') {
     transitive = true
   }
   /* --------------------------------
